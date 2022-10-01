@@ -5,7 +5,9 @@
 
 S04T01N01GognomsNom
 > - Exercici Spring i Maven, fer un hello world de diverses maneres.
+> Primer amb RequestParam i després PathVariable (optional).
 
 S04T01N02GognomsNom
 > - Exercici Spring i Gradle, fer un hello wolrd de diverses maneres.
+> Primer amb RequestParam i després PathVariable (optional).
 
