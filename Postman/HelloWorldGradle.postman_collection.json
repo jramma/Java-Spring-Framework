@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "e6c996f2-201f-4093-aa0e-4837c23471da",
+		"name": "HelloWorldGradle",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23069929"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9001/HelloWorld2/Joan",
+					"host": [
+						"localhost"
+					],
+					"port": "9001",
+					"path": [
+						"HelloWorld2",
+						"Joan"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

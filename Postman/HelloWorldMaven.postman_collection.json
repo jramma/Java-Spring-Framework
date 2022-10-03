@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "e07d27ea-32a9-4a2f-89ef-35d6316c1cfd",
+		"name": "HelloWorldMaven",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23069929"
+	},
+	"item": [
+		{
+			"name": "localhost:9000/HelloWorld",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9000/HelloWorld2/Teo",
+					"host": [
+						"localhost"
+					],
+					"port": "9000",
+					"path": [
+						"HelloWorld2",
+						"Teo"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
