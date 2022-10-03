@@ -11,3 +11,6 @@ S04T01N02GognomsNom
 > - Exercici Spring i Gradle, fer un hello wolrd de diverses maneres.
 > Primer amb RequestParam i després PathVariable (optional).
 
+Postman
+> Pruebas con postman y las colecciones exportadas
+
